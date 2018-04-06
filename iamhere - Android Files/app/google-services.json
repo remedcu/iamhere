@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "177165332780",
+    "firebase_url": "https://aerobic-bonus-155509.firebaseio.com",
+    "project_id": "aerobic-bonus-155509",
+    "storage_bucket": "aerobic-bonus-155509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177165332780:android:7a86429ae90bbef4",
+        "android_client_info": {
+          "package_name": "com.remedcu.user.iamhere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177165332780-uh1r5q560usg45kdjqmo4ene86vbtfku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiOl_4xbUGiPasff8GNFHizFtTPz3i7JI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
